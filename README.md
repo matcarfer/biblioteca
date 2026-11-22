@@ -7,13 +7,19 @@
   <a href="https://cafecito.app/matcarfer">☕ Cafecito</a> · <a href="https://ko-fi.com/matcarfer">☕ Ko-fi</a> · <a href="https://www.patreon.com/matcarfer">❤ Patreon</a>
 </p>
 
+## 🪟 Windows utilities
+
+| Name | Version | Date | Description | Links |
+|---|---|---|---|---|
+| **InstantFTP** | 1.2.0 | 2026-11-22 | Portable FTP server: double-click and its folder is shared. Windows 98 SE–11, 54 KB. · *Servidor FTP portable: doble clic y comparte su carpeta.* | [Repo](https://github.com/matcarfer/InstantFTP) · [.exe](https://github.com/matcarfer/InstantFTP/releases/download/v1.2.0/InstantFTP_v1.2.exe) |
+
 ## 🎮 PC game trainers
 
 | Name | Version | Date | Description | Links |
 |---|---|---|---|---|
 | **Warhammer Survivors Trainer** | 1.3.4 | 2026-11-22 | 11 cheats, F1–F11 hotkeys. Game v2.1.4 (GOG, 64-bit). · *11 trucos, atajos F1–F11.* | [Repo](https://github.com/matcarfer/warhammer-survivors-trainer) · [.exe](https://github.com/matcarfer/library/releases/download/warhammer-survivors-trainer-v1.3.4/WarhammerSurvivors-v2.1.4-Trainer-v1.3.4.exe) |
 
-## 📱 Android apps · 🪟 Windows utilities
+## 📱 Android apps
 
 *Coming soon · Próximamente*
 
