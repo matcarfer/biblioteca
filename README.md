@@ -46,7 +46,7 @@ Each link below downloads the **latest version directly**. Every release lists i
 
 | Trainer | Game · Juego | Version · Versión | Download · Descarga |
 |---|---|---|---|
-| **Warhammer Survivors Trainer** | WarhammerSurvivors.exe v2.1.4 · GOG · 64-bit | 1.3.3 | [⬇ Download · Descargar](https://github.com/matcarfer/library/releases/download/warhammer-survivors-trainer-v1.3.3/WarhammerSurvivors-v2.1.4-Trainer-v1.3.3.exe) · [VirusTotal](https://www.virustotal.com/gui/file/cddd8b3eb37533b2ec7775524fc4d9477a1dc6c5d9bf66d80bfd76500842a6df) |
+| **Warhammer Survivors Trainer** | WarhammerSurvivors.exe v2.1.4 · GOG · 64-bit | 1.3.4 | [⬇ Download · Descargar](https://github.com/matcarfer/library/releases/download/warhammer-survivors-trainer-v1.3.4/WarhammerSurvivors-v2.1.4-Trainer-v1.3.4.exe) · [VirusTotal](https://www.virustotal.com/gui/file/8801d1e47f91ed39e3b7cfeb2307460e877b27f53d773b9d7054901fe80b2064) |
 
 <details>
 <summary><b>Warhammer Survivors Trainer</b> — 11 cheats · F1–F11 · English/Español</summary>
