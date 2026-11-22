@@ -10,14 +10,14 @@
 ## 🪟 Windows utilities
 
 <table>
-<tr><th width="230">Name</th><th width="70">Version</th><th width="100">Date</th><th width="420">Description</th><th width="90">Download</th></tr>
+<tr><th>Name<br><img src="docs/spacer.png" width="230" height="1" alt=""></th><th>Version</th><th>Date</th><th>Description</th><th>Download</th></tr>
 <tr><td><b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>1.2.0</td><td>2026‑11‑22</td><td>Portable FTP server: double-click and its folder is shared. Windows 98 SE–11, 54 KB. · <i>Servidor FTP portable: doble clic y comparte su carpeta.</i></td><td align="center"><a href="https://github.com/matcarfer/InstantFTP/releases/download/v1.2.0/InstantFTP_v1.2.exe">⬇</a></td></tr>
 </table>
 
 ## 🎮 PC game trainers
 
 <table>
-<tr><th width="230">Name</th><th width="70">Version</th><th width="100">Date</th><th width="420">Description</th><th width="90">Download</th></tr>
+<tr><th>Name<br><img src="docs/spacer.png" width="230" height="1" alt=""></th><th>Version</th><th>Date</th><th>Description</th><th>Download</th></tr>
 <tr><td><b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors Trainer</a></b></td><td>1.3.4</td><td>2026‑11‑22</td><td>11 cheats, F1–F11 hotkeys. Game v2.1.4 (GOG, 64-bit). · <i>11 trucos, atajos F1–F11.</i></td><td align="center"><a href="https://github.com/matcarfer/warhammer-survivors-trainer/releases/download/v1.3.4/WarhammerSurvivors-v2.1.4-Trainer-v1.3.4.exe">⬇</a></td></tr>
 </table>
 
