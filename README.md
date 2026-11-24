@@ -12,10 +12,14 @@
 <table>
 <tr><th width="30%">Nombre</th><th width="70%">Descripción</th></tr>
 <tr><td colspan="2"><b>Apps Android pagas (con demo gratis)</b></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo">Escaneo de DNI (UCIP)</a></b></td><td>Acreditá personas en eventos con el QR del DNI.</td></tr>
+<tr><td><img src="docs/icons/ucip-escaneo-dni-demo.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo">Escaneo de DNI (UCIP)</a></b></td><td>Acreditá personas en eventos con el QR del DNI.</td></tr>
 <tr><td colspan="2"><b>Apps Android gratis</b></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/RemoteMate">RemoteMate</a></b></td><td>Usá el celular como control, mouse y teclado de tu caja de TV, por Wi-Fi. La caja pide root, Accesibilidad o ADB.</td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/YerbaLauncher">YerbaLauncher</a></b></td><td>Launcher simple y liviano, sin internet ni publicidad.</td></tr>
+<tr><td><img src="docs/icons/AutoAlToque.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/AutoAlToque">AutoAlToque</a></b></td><td>Datos del motor de tu auto en vivo, alertas y códigos de falla. Necesita adaptador OBD2 Bluetooth.</td></tr>
+<tr><td><img src="docs/icons/Cuadradito.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/Cuadradito">Cuadradito</a></b></td><td>Animaciones, emojis y dibujos en el cuadrado LED MI Matrix Display, por Bluetooth.</td></tr>
+<tr><td><img src="docs/icons/PowerDeck.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/PowerDeck">PowerDeck</a></b></td><td>Menú de energía y ADB para cajas de TV y celulares. Necesita root; sin root solo funciona ADB.</td></tr>
+<tr><td><img src="docs/icons/Ratito.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/Ratito">Ratito</a></b></td><td>Temporizador visual y rutinas para chicos con autismo, con TDAH y para todos.</td></tr>
+<tr><td><img src="docs/icons/RemoteMate.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/RemoteMate">RemoteMate</a></b></td><td>Usá el celular como control, mouse y teclado de tu caja de TV, por Wi-Fi. La caja pide root, Accesibilidad o ADB.</td></tr>
+<tr><td><img src="docs/icons/YerbaLauncher.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/YerbaLauncher">YerbaLauncher</a></b></td><td>Launcher simple y liviano, sin internet ni publicidad.</td></tr>
 </table>
 
 ## 🪟 Windows
@@ -23,7 +27,7 @@
 <table>
 <tr><th width="30%">Nombre</th><th width="70%">Descripción</th></tr>
 <tr><td colspan="2"><b>Utilidades para Windows gratis</b></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Servidor FTP portable, súper rápido y liviano (54 KB), sin interfaz gráfica: doble clic y comparte su carpeta.</td></tr>
+<tr><td>📂&nbsp; <b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Servidor FTP portable, súper rápido y liviano (54 KB), sin interfaz gráfica: doble clic y comparte su carpeta.</td></tr>
 </table>
 
 ## 🎮 Trainers
@@ -31,8 +35,8 @@
 <table>
 <tr><th width="30%">Nombre</th><th width="70%">Descripción</th></tr>
 <tr><td colspan="2"><b>Trainers para juegos de PC gratis</b></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors</a></b></td><td>12 trucos con atajos de teclado, en español e inglés. Solo offline. Para la versión de Steam (64 bits).</td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors</a></b></td><td>11 trucos con atajos de teclado. Para la versión de GOG (64 bits).</td></tr>
+<tr><td><img src="docs/icons/vampire-survivors-trainer.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors</a></b></td><td>12 trucos con atajos de teclado, en español e inglés. Solo offline. Para la versión de Steam (64 bits).</td></tr>
+<tr><td><img src="docs/icons/warhammer-survivors-trainer.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors</a></b></td><td>11 trucos con atajos de teclado. Para la versión de GOG (64 bits).</td></tr>
 </table>
 
 ---
