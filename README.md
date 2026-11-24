@@ -12,7 +12,7 @@
 <table>
 <tr><th width="30%">Nombre</th><th width="70%">Descripción</th></tr>
 <tr><td colspan="2"><b>Apps Android pagas (con demo gratis)</b></td></tr>
-<tr><td><img src="docs/icons/ucip-escaneo-dni-demo.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo">Escaneo de DNI (UCIP)</a></b></td><td>Acreditá personas en eventos con el QR del DNI.</td></tr>
+<tr><td><img src="docs/icons/escaneo-dni-demo.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/escaneo-dni-demo">Escaneo de DNI</a></b></td><td>Acreditá personas en eventos con el QR del DNI.</td></tr>
 <tr><td colspan="2"><b>Apps Android gratis</b></td></tr>
 <tr><td><img src="docs/icons/AutoAlToque.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/AutoAlToque">AutoAlToque</a></b></td><td>Datos del motor de tu auto en vivo, alertas y códigos de falla. Necesita adaptador OBD2 Bluetooth.</td></tr>
 <tr><td><img src="docs/icons/Cuadradito.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/Cuadradito">Cuadradito</a></b></td><td>Animaciones, emojis y dibujos en el cuadrado LED MI Matrix Display, por Bluetooth.</td></tr>

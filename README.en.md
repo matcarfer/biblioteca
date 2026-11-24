@@ -12,7 +12,7 @@
 <table>
 <tr><th width="30%">Name</th><th width="70%">Description</th></tr>
 <tr><td colspan="2"><b>Paid Android apps (with free demo)</b></td></tr>
-<tr><td><img src="docs/icons/ucip-escaneo-dni-demo.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo">Escaneo de DNI (UCIP)</a></b></td><td>Check people in at events with the QR of the Argentine ID card. App in Spanish.</td></tr>
+<tr><td><img src="docs/icons/escaneo-dni-demo.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/escaneo-dni-demo">Escaneo de DNI</a></b></td><td>Check people in at events with the QR of the Argentine ID card. App in Spanish.</td></tr>
 <tr><td colspan="2"><b>Free Android apps</b></td></tr>
 <tr><td><img src="docs/icons/AutoAlToque.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/AutoAlToque">AutoAlToque</a></b></td><td>Live engine data of your car, alerts and fault codes. Needs a Bluetooth OBD2 adapter.</td></tr>
 <tr><td><img src="docs/icons/Cuadradito.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/Cuadradito">Cuadradito</a></b></td><td>Animations, emojis and drawings on the MI Matrix Display LED square, over Bluetooth. App in Spanish.</td></tr>
