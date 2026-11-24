@@ -24,6 +24,6 @@
 ---
 
 <sub>
-Paid apps are covered by the license in their own repository. Everything else is an unofficial fan-made tool, not affiliated with any game or app maker. Those tools are free: do not redistribute, link here instead. See <a href="LICENSE">LICENSE</a>.<br>
+Each app has its own license, stated in its repository and inside the app. See <a href="LICENSE">LICENSE</a>.<br>
 Everything is provided as is, without warranty; use at your own risk. Donations are voluntary.
 </sub>

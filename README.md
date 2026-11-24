@@ -24,6 +24,6 @@
 ---
 
 <sub>
-Las apps pagas se rigen por la licencia de su propio repositorio. El resto son herramientas no oficiales hechas por un fan, sin relación con los creadores de los juegos o apps. Son gratis: no las redistribuyas, compartí este link. Ver <a href="LICENSE">LICENSE</a>.<br>
+Cada app tiene su propia licencia, especificada en su repositorio y dentro de la app. Ver <a href="LICENSE">LICENSE</a>.<br>
 Todo se ofrece tal cual, sin garantía; usalo bajo tu responsabilidad. Las donaciones son voluntarias.
 </sub>
