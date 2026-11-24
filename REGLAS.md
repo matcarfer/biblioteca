@@ -13,16 +13,17 @@ Valen para todos los repos de matcarfer. La misma copia está en `library` y en 
 7. En Releases queda SOLO la última versión. Las anteriores se borran.
 8. Nombre público: matcarfer. Sin datos personales. Única excepción: el email de contacto, solo en el repo de la demo de cada app paga.
 9. Las llaves de firma no se publican nunca.
+10. Compatibilidad como rango: "Compatible con Android X a Y". Y es la última versión probada de verdad. Nunca "X+".
+11. Antes de modificar, mostrar qué se va a hacer y cómo, y esperar el OK.
 
 ## Biblioteca (`library`)
 
 1. Español primero: `README.md` en español, `README.en.md` en inglés. Todo cambio va en los dos.
-2. Una tabla por categoría: Android, Windows, Trainers. Dentro de cada una, pagas primero y gratis después. Una sección sin apps no se muestra.
-3. Título de una sección paga: "Apps Android pagas (con demo gratis)" o equivalente.
-4. El email de contacto no va en la biblioteca.
-5. Columnas: Nombre y Descripción. Sin versión ni fecha.
-6. Solo links al repo de cada app, nunca a la descarga. La biblioteca no tiene releases.
-7. Cada app tiene su propia licencia, en su repo y dentro de la app.
+2. Sin tablas. Categorías: Android, Windows, Trainers. Dentro de cada una, PAGAS (con demo gratis) primero y GRATIS después. Una sección sin apps no se muestra.
+3. El email de contacto no va en la biblioteca.
+4. Por app: nombre grande con link y un renglón corto. Sin versión ni fecha; los detalles van en el repo.
+5. Solo links al repo de cada app, nunca a la descarga. La biblioteca no tiene releases.
+6. Cada app tiene su propia licencia, en su repo y dentro de la app.
 
 ## Al publicar una app
 
