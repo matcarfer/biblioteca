@@ -9,35 +9,31 @@
 
 ## 📱 Android
 
-**PAID (with free demo)**
-
-### [Escaneo de DNI (UCIP)](https://github.com/matcarfer/ucip-escaneo-dni-demo)
-Check people in at events with the QR of the Argentine ID card. App in Spanish.
-
-**FREE**
-
-### [RemoteMate](https://github.com/matcarfer/RemoteMate)
-Use your phone as the remote of your TV box. Needs root, Accessibility or ADB.
-
-### [YerbaLauncher](https://github.com/matcarfer/YerbaLauncher)
-Simple, lightweight launcher.
+<table>
+<tr><th width="30%">Name</th><th width="70%">Description</th></tr>
+<tr><td colspan="2"><b>Paid Android apps (with free demo)</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo">Escaneo de DNI (UCIP)</a></b></td><td>Check people in at events with the QR of the Argentine ID card. App in Spanish.</td></tr>
+<tr><td colspan="2"><b>Free Android apps</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/RemoteMate">RemoteMate</a></b></td><td>Use your phone as the remote of your TV box. Needs root, Accessibility or ADB.</td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/YerbaLauncher">YerbaLauncher</a></b></td><td>Simple, lightweight launcher. No internet, no ads.</td></tr>
+</table>
 
 ## 🪟 Windows
 
-**FREE**
-
-### [InstantFTP](https://github.com/matcarfer/InstantFTP)
-Portable FTP server, super fast and lightweight, no GUI.
+<table>
+<tr><th width="30%">Name</th><th width="70%">Description</th></tr>
+<tr><td colspan="2"><b>Free Windows utilities</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Portable FTP server, super fast and lightweight, no GUI.</td></tr>
+</table>
 
 ## 🎮 Trainers
 
-**FREE**
-
-### [Vampire Survivors](https://github.com/matcarfer/vampire-survivors-trainer)
-12 cheats. Offline only. Steam version.
-
-### [Warhammer Survivors](https://github.com/matcarfer/warhammer-survivors-trainer)
-11 cheats. GOG version.
+<table>
+<tr><th width="30%">Name</th><th width="70%">Description</th></tr>
+<tr><td colspan="2"><b>Free PC game trainers</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors</a></b></td><td>12 cheats with keyboard shortcuts. Offline only. For the Steam version (64-bit).</td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors</a></b></td><td>11 cheats with keyboard shortcuts. For the GOG version (64-bit).</td></tr>
+</table>
 
 ---
 

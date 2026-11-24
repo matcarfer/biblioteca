@@ -9,35 +9,31 @@
 
 ## 📱 Android
 
-**PAGAS (con demo gratis)**
-
-### [Escaneo de DNI (UCIP)](https://github.com/matcarfer/ucip-escaneo-dni-demo)
-Acreditá personas en eventos con el QR del DNI.
-
-**GRATIS**
-
-### [RemoteMate](https://github.com/matcarfer/RemoteMate)
-Usá el celular como control de tu caja de TV. Pide root, Accesibilidad o ADB.
-
-### [YerbaLauncher](https://github.com/matcarfer/YerbaLauncher)
-Launcher simple y liviano.
+<table>
+<tr><th width="30%">Nombre</th><th width="70%">Descripción</th></tr>
+<tr><td colspan="2"><b>Apps Android pagas (con demo gratis)</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo">Escaneo de DNI (UCIP)</a></b></td><td>Acreditá personas en eventos con el QR del DNI.</td></tr>
+<tr><td colspan="2"><b>Apps Android gratis</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/RemoteMate">RemoteMate</a></b></td><td>Usá el celular como control de tu caja de TV. Pide root, Accesibilidad o ADB.</td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/YerbaLauncher">YerbaLauncher</a></b></td><td>Launcher simple y liviano, sin internet ni publicidad.</td></tr>
+</table>
 
 ## 🪟 Windows
 
-**GRATIS**
-
-### [InstantFTP](https://github.com/matcarfer/InstantFTP)
-Servidor FTP portable, súper rápido y liviano, sin interfaz gráfica.
+<table>
+<tr><th width="30%">Nombre</th><th width="70%">Descripción</th></tr>
+<tr><td colspan="2"><b>Utilidades para Windows gratis</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Servidor FTP portable, súper rápido y liviano, sin interfaz gráfica.</td></tr>
+</table>
 
 ## 🎮 Trainers
 
-**GRATIS**
-
-### [Vampire Survivors](https://github.com/matcarfer/vampire-survivors-trainer)
-12 trucos. Solo offline. Versión de Steam.
-
-### [Warhammer Survivors](https://github.com/matcarfer/warhammer-survivors-trainer)
-11 trucos. Versión de GOG.
+<table>
+<tr><th width="30%">Nombre</th><th width="70%">Descripción</th></tr>
+<tr><td colspan="2"><b>Trainers para juegos de PC gratis</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors</a></b></td><td>12 trucos con atajos de teclado. Solo offline. Para la versión de Steam (64 bits).</td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors</a></b></td><td>11 trucos con atajos de teclado. Para la versión de GOG (64 bits).</td></tr>
+</table>
 
 ---
 
