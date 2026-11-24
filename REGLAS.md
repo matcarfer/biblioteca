@@ -1,6 +1,6 @@
 # Reglas
 
-Valen para todos los repos de matcarfer. La misma copia está en `library` y en `llaves`.
+Valen para todos los repos de matcarfer. La misma copia está en `biblioteca` (antes `library`) y en `llaves`.
 
 ## Todos los repos públicos
 
@@ -18,7 +18,7 @@ Valen para todos los repos de matcarfer. La misma copia está en `library` y en 
 12. Ninguna demo menciona a un cliente: nombre, logo y colores propios.
 13. Antes de modificar, mostrar qué se va a hacer y cómo, y esperar el OK.
 
-## Biblioteca (`library`)
+## Biblioteca (`biblioteca`)
 
 1. Español primero: `README.md` en español, `README.en.md` en inglés. Todo cambio va en los dos.
 2. Una tabla por categoría: Android, Windows, Trainers. Dentro de cada una, pagas (con demo gratis) primero y gratis después. Una sección sin apps no se muestra.
