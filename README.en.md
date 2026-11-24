@@ -27,7 +27,7 @@
 <table>
 <tr><th width="30%">Name</th><th width="70%">Description</th></tr>
 <tr><td colspan="2"><b>Free Windows utilities</b></td></tr>
-<tr><td>📂&nbsp; <b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Portable FTP server, super fast and lightweight (54 KB), no GUI: double-click and its folder is shared over the network.</td></tr>
+<tr><td><img src="docs/icons/InstantFTP.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Portable FTP server, super fast and lightweight (56 KB), no GUI: double-click and its folder is shared over the network.</td></tr>
 </table>
 
 ## 🎮 Trainers

@@ -27,7 +27,7 @@
 <table>
 <tr><th width="30%">Nombre</th><th width="70%">Descripción</th></tr>
 <tr><td colspan="2"><b>Utilidades para Windows gratis</b></td></tr>
-<tr><td>📂&nbsp; <b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Servidor FTP portable, súper rápido y liviano (54 KB), sin interfaz gráfica: doble clic y comparte su carpeta.</td></tr>
+<tr><td><img src="docs/icons/InstantFTP.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Servidor FTP portable, súper rápido y liviano (56 KB), sin interfaz gráfica: doble clic y comparte su carpeta.</td></tr>
 </table>
 
 ## 🎮 Trainers
