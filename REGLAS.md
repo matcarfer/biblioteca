@@ -7,7 +7,7 @@ Valen para todos los repos de matcarfer. La misma copia está en `library` y en 
 1. Menos es más: descripción corta y simple, con fotos.
 2. El link de descarga va al principio, grande y fácil de ver.
 3. Español por defecto (`README.md`) y un link a inglés (`README.en.md`).
-4. La licencia va resumida en una línea, con link. Completa en español (`LICENSE`) y en inglés (`LICENSE.en`).
+4. TODOS los repos llevan la licencia completa en español (`LICENSE`) y en inglés (`LICENSE.en`). En el README va resumida en una línea, con link.
 5. Todas las apps son de código cerrado: código en un repo privado `<App>-source`; el público `<App>` solo tiene README, licencia, privacidad, fotos y la descarga en Releases.
 6. Mismo modelo de licencia y mismos links de colaboración (Cafecito, Ko-fi, Patreon) en el repo y dentro de la app.
 7. En Releases queda SOLO la última versión. Las anteriores se borran.

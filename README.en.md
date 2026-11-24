@@ -38,6 +38,6 @@
 ---
 
 <sub>
-Each app has its own license, stated in its repository and inside the app. <a href="LICENSE">License</a>.<br>
+Each app has its own license, stated in its repository and inside the app. <a href="LICENSE.en">License</a>.<br>
 Everything is provided as is, without warranty; use at your own risk. Donations are voluntary.
 </sub>
