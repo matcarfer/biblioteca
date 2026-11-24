@@ -18,8 +18,8 @@
 <tr><td><img src="docs/icons/Cuadradito.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/Cuadradito">Cuadradito</a></b></td><td>Animaciones, emojis y dibujos en el cuadrado LED MI Matrix Display, por Bluetooth.</td></tr>
 <tr><td><img src="docs/icons/PowerDeck.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/PowerDeck">PowerDeck</a></b></td><td>Menú de energía y ADB para cajas de TV y celulares. Necesita root; sin root solo funciona ADB.</td></tr>
 <tr><td><img src="docs/icons/Ratito.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/Ratito">Ratito</a></b></td><td>Temporizador visual y rutinas para chicos con autismo, con TDAH y para todos.</td></tr>
-<tr><td><img src="docs/icons/RemoteMate.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/RemoteMate">RemoteMate</a></b></td><td>Usá el celular como control, mouse y teclado de tu caja de TV, por Wi-Fi. La caja pide root, Accesibilidad o ADB.</td></tr>
-<tr><td><img src="docs/icons/YerbaLauncher.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/YerbaLauncher">YerbaLauncher</a></b></td><td>Launcher simple y liviano, sin internet ni publicidad.</td></tr>
+<tr><td><img src="docs/icons/RemoteMate.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/RemoteMate">RemoteMate</a></b></td><td>Controlá sin control remoto tu Chromecast con Google TV, Smart TV (Android TV o Google TV) o convertidor Smart Android.</td></tr>
+<tr><td><img src="docs/icons/YerbaLauncher.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/YerbaLauncher">YerbaLauncher</a></b></td><td>Cambiá el launcher de tu tablet o celular viejo por uno simple y súper liviano.</td></tr>
 </table>
 
 ## 🪟 Windows
