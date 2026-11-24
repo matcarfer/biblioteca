@@ -14,7 +14,9 @@ Valen para todos los repos de matcarfer. La misma copia está en `library` y en 
 8. Nombre público: matcarfer. Sin datos personales. Única excepción: el email de contacto, solo en el repo de la demo de cada app paga.
 9. Las llaves de firma no se publican nunca.
 10. Compatibilidad como rango: "Compatible con Android X a Y". Y es la última versión probada de verdad. Nunca "X+".
-11. Antes de modificar, mostrar qué se va a hacer y cómo, y esperar el OK.
+11. Todo repo público lleva topics.
+12. Ninguna demo menciona a un cliente: nombre, logo y colores propios.
+13. Antes de modificar, mostrar qué se va a hacer y cómo, y esperar el OK.
 
 ## Biblioteca (`library`)
 
