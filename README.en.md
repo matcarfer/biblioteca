@@ -3,7 +3,7 @@
 <h1 align="center">matcarfer · Library</h1>
 
 <p align="center">
-  <a href="README.md">🇦🇷 Español</a> · 🇬🇧 <b>English</b><br><br>
+  <a href="README.md">Español</a> · <b>English</b><br><br>
   Tools by matcarfer<br>
   <a href="https://cafecito.app/matcarfer">☕ Cafecito</a> · <a href="https://ko-fi.com/matcarfer">☕ Ko-fi</a> · <a href="https://www.patreon.com/matcarfer">❤ Patreon</a>
 </p>
