@@ -11,7 +11,7 @@
 <table>
 <tr><th>Name</th><th>Version</th><th>Description</th><th>Download</th></tr>
 <tr><td colspan="4"><b>📱 Paid Android apps (with free demo)</b></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo">Escaneo de DNI (UCIP)</a></b></td><td>2.8.0</td><td>Check people in at events by scanning the QR of the Argentine ID card. Offline, exports to Excel and PDF. Android 7+. Demo: 5 records. Sold customized. App in Spanish.</td><td align="center"><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo/releases/download/v2.8.0-demo/UCIP-EscaneoDEMO-v2.8.0-debug.apk">⬇</a></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo">Escaneo de DNI (UCIP)</a></b></td><td>2.8.0</td><td>Check people in at events by scanning the QR of the Argentine ID card. Offline, exports to Excel and PDF. Android 7+. Demo: 5 records. Sold customized. App in Spanish.<br><b>Contact: <a href="mailto:matcarfer@gmail.com">matcarfer@gmail.com</a></b></td><td align="center"><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo/releases/download/v2.8.0-demo/UCIP-EscaneoDEMO-v2.8.0-debug.apk">⬇</a></td></tr>
 <tr><td colspan="4"><b>📱 Free Android apps</b></td></tr>
 <tr><td><b><a href="https://github.com/matcarfer/RemoteMate">RemoteMate</a></b></td><td>2.1.0</td><td>Your phone as remote, mouse and keyboard of any Android TV box. Android 4.4+.</td><td align="center"><a href="https://github.com/matcarfer/RemoteMate/releases/download/v2.1.0/RemoteMate-2.1.0.apk">⬇</a></td></tr>
 <tr><td colspan="4"><b>🪟 Free Windows utilities</b></td></tr>
