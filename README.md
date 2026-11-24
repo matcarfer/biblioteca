@@ -11,29 +11,29 @@
 <h2>📱 Android</h2>
 
 <table>
-<tr><th width="26%">Nombre</th><th width="62%">Descripción</th><th width="12%">Descargar</th></tr>
-<tr><td colspan="3"><b>Apps Android pagas (con demo gratis)</b></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo">Escaneo de DNI (UCIP)</a></b></td><td>Acreditá personas en eventos leyendo el QR del DNI. Sin internet, exporta a Excel y PDF. Android 7+. Demo: 5 registros. Se vende personalizada.</td><td align="center"><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo/releases/download/v2.8.0-demo/UCIP-EscaneoDEMO-v2.8.0-debug.apk">⬇</a></td></tr>
-<tr><td colspan="3"><b>Apps Android gratis</b></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/RemoteMate">RemoteMate</a></b></td><td>Tu celular como control, mouse y teclado de la caja de TV. <b>La caja necesita root</b> (o Accesibilidad, o ADB por red). Android 4.4+.</td><td align="center"><a href="https://github.com/matcarfer/RemoteMate/releases/download/v2.1.0/RemoteMate-2.1.0.apk">⬇</a></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/YerbaLauncher">YerbaLauncher</a></b></td><td>Launcher simple y liviano (110 KB) para celulares, tablets y cajas de TV, viejos y nuevos. Sin internet ni publicidad. Android 2.3+.</td><td align="center"><a href="https://github.com/matcarfer/YerbaLauncher/releases/download/v1.6.0/YerbaLauncher-1.6.0.apk">⬇</a></td></tr>
+<tr><th width="28%">Nombre</th><th width="72%">Descripción</th></tr>
+<tr><td colspan="2"><b>Apps Android pagas (con demo gratis)</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/ucip-escaneo-dni-demo">Escaneo de DNI (UCIP)</a></b></td><td>Acreditá personas en eventos leyendo el QR del DNI. Sin internet, exporta a Excel y PDF. Android 7+. Demo: 5 registros. Se vende personalizada.</td></tr>
+<tr><td colspan="2"><b>Apps Android gratis</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/RemoteMate">RemoteMate</a></b></td><td>Tu celular como control, mouse y teclado de la caja de TV. <b>La caja necesita root</b> (o Accesibilidad, o ADB por red). Android 4.4+.</td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/YerbaLauncher">YerbaLauncher</a></b></td><td>Launcher simple y liviano (110 KB) para celulares, tablets y cajas de TV, viejos y nuevos. Sin internet ni publicidad. Android 2.3+.</td></tr>
 </table>
 
 <h2>🪟 Windows</h2>
 
 <table>
-<tr><th width="26%">Nombre</th><th width="62%">Descripción</th><th width="12%">Descargar</th></tr>
-<tr><td colspan="3"><b>Utilidades para Windows gratis</b></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Servidor FTP portable, súper rápido y liviano (54 KB), sin interfaz gráfica: doble clic y comparte su carpeta. Windows 98 SE a 11.</td><td align="center"><a href="https://github.com/matcarfer/InstantFTP/releases/download/v1.2.0/InstantFTP_v1.2.exe">⬇</a></td></tr>
+<tr><th width="28%">Nombre</th><th width="72%">Descripción</th></tr>
+<tr><td colspan="2"><b>Utilidades para Windows gratis</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Servidor FTP portable, súper rápido y liviano (54 KB), sin interfaz gráfica: doble clic y comparte su carpeta. Windows 98 SE a 11.</td></tr>
 </table>
 
 <h2>🎮 Trainers</h2>
 
 <table>
-<tr><th width="26%">Nombre</th><th width="62%">Descripción</th><th width="12%">Descargar</th></tr>
-<tr><td colspan="3"><b>Trainers para juegos de PC gratis</b></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors Trainer</a></b></td><td>12 trucos, atajos F1–F12. Solo offline. Juego v1.16.111 (Steam, 64 bits).</td><td align="center"><a href="https://github.com/matcarfer/vampire-survivors-trainer/releases/download/v1.0.2/VampireSurvivors-v1.16.111-Trainer-v1.0.2.exe">⬇</a></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors Trainer</a></b></td><td>11 trucos, atajos F1–F11. Juego v2.1.4 (GOG, 64 bits).</td><td align="center"><a href="https://github.com/matcarfer/warhammer-survivors-trainer/releases/download/v1.3.4/WarhammerSurvivors-v2.1.4-Trainer-v1.3.4.exe">⬇</a></td></tr>
+<tr><th width="28%">Nombre</th><th width="72%">Descripción</th></tr>
+<tr><td colspan="2"><b>Trainers para juegos de PC gratis</b></td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors Trainer</a></b></td><td>12 trucos, atajos F1–F12. Solo offline. Juego v1.16.111 (Steam, 64 bits).</td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors Trainer</a></b></td><td>11 trucos, atajos F1–F11. Juego v2.1.4 (GOG, 64 bits).</td></tr>
 </table>
 
 ---

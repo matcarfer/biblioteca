@@ -5,13 +5,14 @@ Valen para todos los repos de matcarfer. La misma copia está en `library` y en 
 ## Todos los repos públicos
 
 1. Menos es más: descripción corta y simple, con fotos.
-2. Español por defecto (`README.md`) y un link a inglés (`README.en.md`).
-3. La licencia va resumida en una línea, con link a `LICENSE`.
-4. Todas las apps son de código cerrado: código en un repo privado `<App>-source`; el público `<App>` solo tiene README, licencia, privacidad, fotos y la descarga en Releases.
-5. Mismo modelo de licencia y mismos links de colaboración (Cafecito, Ko-fi, Patreon) en el repo y dentro de la app.
-6. En Releases queda SOLO la última versión. Las anteriores se borran.
-7. Nombre público: matcarfer. Sin datos personales. Única excepción: el email de contacto, solo en el repo de la demo de cada app paga.
-8. Las llaves de firma no se publican nunca.
+2. El link de descarga va al principio, grande y fácil de ver.
+3. Español por defecto (`README.md`) y un link a inglés (`README.en.md`).
+4. La licencia va resumida en una línea, con link a `LICENSE`.
+5. Todas las apps son de código cerrado: código en un repo privado `<App>-source`; el público `<App>` solo tiene README, licencia, privacidad, fotos y la descarga en Releases.
+6. Mismo modelo de licencia y mismos links de colaboración (Cafecito, Ko-fi, Patreon) en el repo y dentro de la app.
+7. En Releases queda SOLO la última versión. Las anteriores se borran.
+8. Nombre público: matcarfer. Sin datos personales. Única excepción: el email de contacto, solo en el repo de la demo de cada app paga.
+9. Las llaves de firma no se publican nunca.
 
 ## Biblioteca (`library`)
 
@@ -19,8 +20,8 @@ Valen para todos los repos de matcarfer. La misma copia está en `library` y en 
 2. Una tabla por categoría: Android, Windows, Trainers. Dentro de cada una, pagas primero y gratis después. Una sección sin apps no se muestra.
 3. Título de una sección paga: "Apps Android pagas (con demo gratis)" o equivalente.
 4. El email de contacto no va en la biblioteca.
-5. Columnas: Nombre, Descripción, Descargar. Sin versión ni fecha.
-6. La descarga apunta al release del repo de cada app. La biblioteca no tiene releases.
+5. Columnas: Nombre y Descripción. Sin versión ni fecha.
+6. Solo links al repo de cada app, nunca a la descarga. La biblioteca no tiene releases.
 7. Cada app tiene su propia licencia, en su repo y dentro de la app.
 
 ## Al publicar una app
