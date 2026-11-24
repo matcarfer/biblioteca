@@ -35,7 +35,7 @@
 <table>
 <tr><th width="30%">Name</th><th width="70%">Description</th></tr>
 <tr><td colspan="2"><b>Free PC game trainers</b></td></tr>
-<tr><td><img src="docs/icons/vampire-survivors-trainer.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors</a></b></td><td>12 cheats with keyboard shortcuts, in English and Spanish. Offline only. For the Steam version (64-bit).</td></tr>
+<tr><td><img src="docs/icons/vampire-survivors-trainer.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors</a></b></td><td>11 cheats with keyboard shortcuts. Offline only. For the Steam version (64-bit).</td></tr>
 <tr><td><img src="docs/icons/warhammer-survivors-trainer.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors</a></b></td><td>11 cheats with keyboard shortcuts. For the GOG version (64-bit).</td></tr>
 </table>
 

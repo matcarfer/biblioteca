@@ -35,7 +35,7 @@
 <table>
 <tr><th width="30%">Nombre</th><th width="70%">Descripción</th></tr>
 <tr><td colspan="2"><b>Trainers para juegos de PC gratis</b></td></tr>
-<tr><td><img src="docs/icons/vampire-survivors-trainer.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors</a></b></td><td>12 trucos con atajos de teclado, en español e inglés. Solo offline. Para la versión de Steam (64 bits).</td></tr>
+<tr><td><img src="docs/icons/vampire-survivors-trainer.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors</a></b></td><td>11 trucos con atajos de teclado. Solo offline. Para la versión de Steam (64 bits).</td></tr>
 <tr><td><img src="docs/icons/warhammer-survivors-trainer.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors</a></b></td><td>11 trucos con atajos de teclado. Para la versión de GOG (64 bits).</td></tr>
 </table>
 
