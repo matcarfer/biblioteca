@@ -32,8 +32,8 @@
 <table>
 <tr><th width="28%">Nombre</th><th width="72%">Descripción</th></tr>
 <tr><td colspan="2"><b>Trainers para juegos de PC gratis</b></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors Trainer</a></b></td><td>12 trucos, atajos F1–F12. Solo offline. Juego v1.16.111 (Steam, 64 bits).</td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors Trainer</a></b></td><td>11 trucos, atajos F1–F11. Juego v2.1.4 (GOG, 64 bits).</td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors Trainer</a></b></td><td>12 trucos con atajos F1–F12, en español e inglés. Un solo .exe, sin instalar. Solo offline. Juego v1.16.111 (Steam, 64 bits).</td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors Trainer</a></b></td><td>11 trucos con atajos F1–F11, en español e inglés. Un solo .exe, sin instalar. Juego v2.1.4 (GOG, 64 bits).</td></tr>
 </table>
 
 ---

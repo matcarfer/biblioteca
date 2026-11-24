@@ -32,8 +32,8 @@
 <table>
 <tr><th width="28%">Name</th><th width="72%">Description</th></tr>
 <tr><td colspan="2"><b>Free PC game trainers</b></td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors Trainer</a></b></td><td>12 cheats, F1–F12 hotkeys. Offline only. Game v1.16.111 (Steam, 64-bit).</td></tr>
-<tr><td><b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors Trainer</a></b></td><td>11 cheats, F1–F11 hotkeys. Game v2.1.4 (GOG, 64-bit).</td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors Trainer</a></b></td><td>12 cheats with F1–F12 hotkeys, in English and Spanish. One .exe, no install. Offline only. Game v1.16.111 (Steam, 64-bit).</td></tr>
+<tr><td><b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors Trainer</a></b></td><td>11 cheats with F1–F11 hotkeys, in English and Spanish. One .exe, no install. Game v2.1.4 (GOG, 64-bit).</td></tr>
 </table>
 
 ---
