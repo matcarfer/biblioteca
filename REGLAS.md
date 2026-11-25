@@ -17,7 +17,7 @@ Valen para todos los repos de matcarfer. La misma copia está en `biblioteca` (a
 11. Todo repo público lleva topics.
 12. Ninguna demo menciona a un cliente: nombre, logo y colores propios.
 13. Antes de modificar, mostrar qué se va a hacer y cómo, y esperar el OK.
-14. ID interno de toda app Android propia: `io.github.matcarfer.<app>` (minúsculas, sin guiones ni espacios). El nombre visible no lleva matcarfer. Al migrar no importa tener que desinstalar la versión anterior. Excepción: las apps hechas para un cliente.
+14. ID interno de toda app Android propia: `io.github.matcarfer.<app>` (minúsculas, sin guiones ni espacios). El nombre visible no lleva matcarfer. Al migrar no importa tener que desinstalar la versión anterior.
 
 ## Biblioteca (`biblioteca`)
 
