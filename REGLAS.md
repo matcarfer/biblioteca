@@ -22,15 +22,20 @@ Valen para todos los repos de matcarfer. La misma copia está en `biblioteca` (a
 ## Biblioteca (`biblioteca`)
 
 1. Español primero: `README.md` en español, `README.en.md` en inglés. Todo cambio va en los dos.
-2. Una tabla por categoría: Android, Windows, Trainers. Dentro de cada una, pagas (con demo gratis) primero y gratis después. Una sección sin apps no se muestra.
+2. Una tabla por categoría: Android, Windows. Nada de gaming: va en `biblioteca-gaming`. Dentro de cada una, pagas (con demo gratis) primero y gratis después. Una sección sin apps no se muestra.
 3. El email de contacto no va en la biblioteca.
 4. Dentro de cada sección, orden alfabético. A la izquierda del nombre va el ícono de la app.
 5. Columnas: Nombre (con link) y Descripción, de un renglón corto. Sin versión ni fecha; los detalles van en el repo.
 6. Solo links al repo de cada app, nunca a la descarga. La biblioteca no tiene releases.
 7. Cada app tiene su propia licencia, en su repo y dentro de la app.
 
+## Biblioteca gaming (`biblioteca-gaming`)
+
+1. Mismas reglas que `biblioteca`, solo para gaming. Secciones: Android, Trainers.
+2. Aclarar al pie que las donaciones no corresponden a LD Studio.
+
 ## Al publicar una app
 
 1. Probarla en los celulares y sacar las fotos ahí.
 2. En Descargas de cada celular queda solo el último APK de esa app.
-3. Verificar la firma, la descarga y los links. Actualizar la biblioteca.
+3. Verificar la firma, la descarga y los links. Actualizar la biblioteca que corresponda.

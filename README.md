@@ -16,7 +16,6 @@
 <tr><td colspan="2"><b>Apps Android gratis</b></td></tr>
 <tr><td><img src="docs/icons/AutoAlToque.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/AutoAlToque">AutoAlToque</a></b></td><td>Datos del motor de tu auto en vivo, alertas y códigos de falla. Necesita adaptador OBD2 Bluetooth.</td></tr>
 <tr><td><img src="docs/icons/Cuadradito.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/Cuadradito">Cuadradito</a></b></td><td>Animaciones, emojis y dibujos en el cuadrado LED MI Matrix Display, por Bluetooth.</td></tr>
-<tr><td><img src="docs/icons/LDStudio.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/LDStudio">LD Studio</a></b></td><td>Leé y escribí tags NFC NTAG213, 215 y 216 compatibles con LEGO Dimensions. No oficial.</td></tr>
 <tr><td><img src="docs/icons/PowerDeck.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/PowerDeck">PowerDeck</a></b></td><td>Menú de energía y ADB para Smart TVs (Android TV o Google TV), convertidores Smart Android, celulares y tablets. Necesita root; sin root solo funciona ADB.</td></tr>
 <tr><td><img src="docs/icons/Ratito.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/Ratito">Ratito</a></b></td><td>Temporizador visual y rutinas para chicos con autismo, con TDAH y para todos.</td></tr>
 <tr><td><img src="docs/icons/RemoteMate.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/RemoteMate">RemoteMate</a></b></td><td>Controlá sin control remoto tu Chromecast con Google TV, Smart TV (Android TV o Google TV) o convertidor Smart Android.</td></tr>
@@ -29,15 +28,6 @@
 <tr><th width="30%">Nombre</th><th width="70%">Descripción</th></tr>
 <tr><td colspan="2"><b>Utilidades para Windows gratis</b></td></tr>
 <tr><td><img src="docs/icons/InstantFTP.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Servidor FTP portable, súper rápido y liviano (56 KB), sin interfaz gráfica: doble clic y comparte su carpeta.</td></tr>
-</table>
-
-## 🎮 Trainers
-
-<table>
-<tr><th width="30%">Nombre</th><th width="70%">Descripción</th></tr>
-<tr><td colspan="2"><b>Trainers para juegos de PC gratis</b></td></tr>
-<tr><td><img src="docs/icons/vampire-survivors-trainer.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/vampire-survivors-trainer">Vampire Survivors</a></b></td><td>11 trucos con atajos de teclado. Solo offline. Para la versión de Steam (64 bits).</td></tr>
-<tr><td><img src="docs/icons/warhammer-survivors-trainer.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/warhammer-survivors-trainer">Warhammer Survivors</a></b></td><td>11 trucos con atajos de teclado. Para la versión de GOG (64 bits).</td></tr>
 </table>
 
 ---
