@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="README.md">Español</a> · <b>English</b><br><br>
-  <a href="https://cafecito.app/matcarfer">☕ Cafecito</a> · <a href="https://www.matecito.co/matcarfer">🧉 Matecito</a> · <a href="https://link.mercadopago.com.ar/matcarfer">💙 Mercado Pago</a> · <a href="https://ko-fi.com/matcarfer">☕ Ko-fi</a> · <a href="https://www.patreon.com/matcarfer">❤ Patreon</a>
+  <a href="https://cafecito.app/matcarfer">☕ Cafecito</a> · <a href="https://www.matecito.co/matcarfer">🧉 Matecito</a> · <a href="https://link.mercadopago.com.ar/matcarfer">💙 Mercado Pago</a> · <a href="https://ko-fi.com/matcarfer">☕ Ko-fi</a> · <a href="https://www.patreon.com/matcarfer">❤ Patreon</a> · <a href="https://github.com/sponsors/matcarfer">💖 GitHub Sponsors</a>
 </p>
 
 ## 📱 Android
@@ -29,6 +29,14 @@
 <tr><td colspan="2"><b>Free Windows utilities</b></td></tr>
 <tr><td><img src="docs/icons/BTDongleLab.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/BTDongleLab-Windows">BTDongleLab</a></b></td><td>Analyze your Bluetooth dongle or card: what it has, what it is good for and whether it overpromises. App in Spanish.</td></tr>
 <tr><td><img src="docs/icons/InstantFTP.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Portable FTP server, super fast and lightweight (56 KB), no GUI: double-click and its folder is shared over the network.</td></tr>
+</table>
+
+## 🐧 Linux
+
+<table>
+<tr><th width="30%">Name</th><th width="70%">Description</th></tr>
+<tr><td colspan="2"><b>Free Linux utilities</b></td></tr>
+<tr><td><img src="docs/icons/aic8800-wifi6-linux.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/aic8800-wifi6-linux">aic8800-wifi6-linux</a></b></td><td>Get the Wi-Fi 6 + Bluetooth USB adapter that shows up as a USB drive working on Linux, with one command.</td></tr>
 </table>
 
 ---

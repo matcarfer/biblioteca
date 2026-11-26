@@ -1,0 +1,9 @@
+# Botón "Sponsor" del repositorio · Repository "Sponsor" button
+# Orden fijo · Fixed order: Cafecito, Matecito, Mercado Pago, Ko-fi, Patreon, GitHub Sponsors
+github: matcarfer
+ko_fi: matcarfer
+custom:
+  - "https://cafecito.app/matcarfer"
+  - "https://www.matecito.co/matcarfer"
+  - "https://link.mercadopago.com.ar/matcarfer"
+  - "https://www.patreon.com/matcarfer"
