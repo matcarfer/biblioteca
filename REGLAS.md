@@ -8,10 +8,10 @@ Valen para todos los repos de matcarfer. La misma copia está en `biblioteca` (a
 2. El link de descarga va al principio, grande y fácil de ver.
 3. Español por defecto (`README.md`) y un link a inglés (`README.en.md`).
 4. TODOS los repos llevan la licencia completa en español (`LICENSE`) y en inglés (`LICENSE.en`). En el README va resumida en una línea, con link.
-5. Todas las apps son de código cerrado: código en un repo privado `<App>-source`; el público `<App>` solo tiene README, licencia, privacidad, fotos y la descarga en Releases. Excepción: `aic8800-wifi6-linux` es código abierto (GPL-3.0) por decisión del autor, con todo el código en el repo público.
+5. Todas las apps son de código cerrado: código en un repo privado `<App>-source`; el público `<App>` solo tiene README, licencia, privacidad, fotos y la descarga en Releases. Excepciones: `aic8800-wifi6-linux` y `actualizar-impresoras-de-red` son código abierto (GPL-3.0) por decisión del autor, con todo el código en el repo público.
 6. Mismo modelo de licencia y mismos links de colaboración en el repo y dentro de la app, siempre en este orden: Cafecito (https://cafecito.app/matcarfer), Matecito (https://www.matecito.co/matcarfer), Mercado Pago (https://link.mercadopago.com.ar/matcarfer), Ko-fi (https://ko-fi.com/matcarfer), Patreon (https://www.patreon.com/matcarfer), GitHub Sponsors (https://github.com/sponsors/matcarfer). En `.github/FUNDING.yml` el mismo orden (`github: matcarfer` y `ko_fi: matcarfer` son claves propias; el resto va en `custom`).
 7. En Releases queda SOLO la última versión. Las anteriores se borran.
-8. Nombre público: matcarfer. Sin datos personales. Única excepción: el email de contacto, solo en el repo de la demo de cada app paga.
+8. Nombre público: Matías Ferrero, siempre junto a su GitHub matcarfer (https://github.com/matcarfer), en todo: repos, licencias, créditos y dentro de las apps. Sin otros datos personales. Única excepción: el email de contacto, solo en el repo de la demo de cada app paga.
 9. Las llaves de firma no se publican nunca.
 10. Compatibilidad como rango: "Compatible con Android X a Y". Y es la última versión probada de verdad. Nunca "X+".
 11. Todo repo público lleva topics.
