@@ -29,7 +29,7 @@
 <tr><td colspan="2"><b>Free Windows utilities</b></td></tr>
 <tr><td><img src="docs/icons/actualizar-impresoras-de-red.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/actualizar-impresoras-de-red">Actualizar Impresoras de RED</a></b></td><td>Reinstall a PC's network printers from scratch, with the driver it already has. Open source. App in Spanish.</td></tr>
 <tr><td><img src="docs/icons/BTDongleLab.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/BTDongleLab-Windows">BTDongleLab</a></b></td><td>Analyze your Bluetooth dongle or card: what it has, what it is good for and whether it overpromises. App in Spanish.</td></tr>
-<tr><td><img src="docs/icons/InstantFTP.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Portable FTP server, super fast and lightweight (56 KB), no GUI: double-click and its folder is shared over the network.</td></tr>
+<tr><td><img src="docs/icons/InstantFTP.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Portable FTP server, super fast and lightweight (56 KB), no GUI: double-click and its folder is shared over the network. Open source.</td></tr>
 </table>
 
 ## 🐧 Linux

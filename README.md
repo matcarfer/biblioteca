@@ -29,7 +29,7 @@
 <tr><td colspan="2"><b>Utilidades para Windows gratis</b></td></tr>
 <tr><td><img src="docs/icons/actualizar-impresoras-de-red.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/actualizar-impresoras-de-red">Actualizar Impresoras de RED</a></b></td><td>Reinstalá desde cero las impresoras de red de una PC, con el driver que ya tiene. Código abierto.</td></tr>
 <tr><td><img src="docs/icons/BTDongleLab.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/BTDongleLab-Windows">BTDongleLab</a></b></td><td>Analizá tu dongle o placa Bluetooth: qué trae, para qué sirve y si promete de más.</td></tr>
-<tr><td><img src="docs/icons/InstantFTP.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Servidor FTP portable, súper rápido y liviano (56 KB), sin interfaz gráfica: doble clic y comparte su carpeta.</td></tr>
+<tr><td><img src="docs/icons/InstantFTP.png" width="28" align="center" alt="">&nbsp; <b><a href="https://github.com/matcarfer/InstantFTP">InstantFTP</a></b></td><td>Servidor FTP portable, súper rápido y liviano (56 KB), sin interfaz gráfica: doble clic y comparte su carpeta. Código abierto.</td></tr>
 </table>
 
 ## 🐧 Linux
